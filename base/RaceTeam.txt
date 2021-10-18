@@ -1,0 +1,5 @@
+Mark,Fineis,Practice,KTM,SX-150,2021,41,0,New,9,Replace,6,Okay,3,Okay,
+Brayden,Lomax,Stock,Suzuki,RMZ-250F,2018,37,1,Okay,7,Okay,7,Okay,1,Okay,
+Collin,Lomax,Modified,Yamaha,YZ-125,2020,23,0,New,6,Okay,4,Okay,1,Okay,
+Mark,Fineis,Modified,KTM,SX-125,2021,19,5,Replace,5,Okay,0,New,5,Replace,
+Mark,Fineis,Modified,KTM,SX-150,2021,17,0,New,2,Okay,2,Okay,2,Okay,
